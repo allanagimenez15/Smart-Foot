@@ -30,5 +30,10 @@ O Smart Foot também contribui para a análise biomecânica, ajudando a avaliar:
 ### **Metodologia e Desenvolvimento:**
 O projeto foi desenvolvido com base em uma metodologia clara, desde a coleta de dados até a análise e apresentação dos resultados. A integração dos componentes na estrutura do tênis foi cuidadosamente planejada, considerando opções como a sola, o cadarço ou a palmilha para garantir conforto e funcionalidade.
 
+### **Linguagem ultilizada:**
+Para o desenvolvimento do nosso aplicativo, utilizamos a plataforma Kodular(programação em blocos), uma ferramenta que permite a criação de aplicativos mobile para Android de forma visual e intuitiva.
+No site ultilizamos CSS, JavaScript e HTML.
+Na integração das informações para o arduino Uno usamos C++ no site do arduino IDE.
+
 ### **Conclusão:**
 O **Smart Foot** representa uma inovação significativa no mercado de wearables, oferecendo uma solução prática e elegante para quem busca monitorar sua atividade física de forma eficiente. Com sua tecnologia embutida e design moderno, o tênis inteligente promete transformar a maneira como as pessoas interagem com seus calçados no dia a dia, promovendo saúde, performance e estilo.
